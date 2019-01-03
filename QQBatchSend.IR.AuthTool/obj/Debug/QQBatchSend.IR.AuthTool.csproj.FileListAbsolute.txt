@@ -1,0 +1,9 @@
+E:\Works\CleverQQ\QQBatchSend\QQBatchSend.IR.AuthTool\obj\Debug\QQBatchSend.IR.AuthTool.csprojAssemblyReference.cache
+E:\Works\CleverQQ\QQBatchSend\QQBatchSend.IR.AuthTool\obj\Debug\QQBatchSend.IR.AuthTool.FormMain.resources
+E:\Works\CleverQQ\QQBatchSend\QQBatchSend.IR.AuthTool\obj\Debug\QQBatchSend.IR.AuthTool.Properties.Resources.resources
+E:\Works\CleverQQ\QQBatchSend\QQBatchSend.IR.AuthTool\obj\Debug\QQBatchSend.IR.AuthTool.csproj.GenerateResource.cache
+E:\Works\CleverQQ\QQBatchSend\QQBatchSend.IR.AuthTool\obj\Debug\QQBatchSend.IR.AuthTool.csproj.CoreCompileInputs.cache
+E:\Works\CleverQQ\QQBatchSend\QQBatchSend.IR.AuthTool\bin\Debug\QQBatchSend.IR.AuthTool.exe
+E:\Works\CleverQQ\QQBatchSend\QQBatchSend.IR.AuthTool\bin\Debug\QQBatchSend.IR.AuthTool.pdb
+E:\Works\CleverQQ\QQBatchSend\QQBatchSend.IR.AuthTool\obj\Debug\QQBatchSend.IR.AuthTool.exe
+E:\Works\CleverQQ\QQBatchSend\QQBatchSend.IR.AuthTool\obj\Debug\QQBatchSend.IR.AuthTool.pdb

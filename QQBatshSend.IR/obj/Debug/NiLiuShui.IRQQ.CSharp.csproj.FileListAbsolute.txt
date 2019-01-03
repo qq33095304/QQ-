@@ -1,0 +1,8 @@
+D:\bin\Debug\NiLiuShui.IR.dll
+D:\bin\Debug\NiLiuShui.IR.pdb
+E:\LiuShuiIRQQCSharp\NiLiuShui.IRQQ\NiLiuShui.IRQQ.CSharp\obj\Debug\NiLiuShui.IRQQ.CSharp.FormMain.resources
+E:\LiuShuiIRQQCSharp\NiLiuShui.IRQQ\NiLiuShui.IRQQ.CSharp\obj\Debug\NiLiuShui.IRQQ.CSharp.csproj.GenerateResource.Cache
+E:\LiuShuiIRQQCSharp\NiLiuShui.IRQQ\NiLiuShui.IRQQ.CSharp\obj\Debug\NiLiuShui.IR.dll
+E:\LiuShuiIRQQCSharp\NiLiuShui.IRQQ\NiLiuShui.IRQQ.CSharp\obj\Debug\NiLiuShui.IR.pdb
+C:\Users\Administrator\Desktop\IRQQ1.4.7（密码1）\plugin\NiLiuShui.IR.dll
+C:\Users\Administrator\Desktop\IRQQ1.4.7（密码1）\plugin\NiLiuShui.IR.pdb

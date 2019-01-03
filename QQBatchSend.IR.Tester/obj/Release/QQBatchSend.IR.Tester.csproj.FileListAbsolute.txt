@@ -1,0 +1,9 @@
+E:\Works\CleverQQ\QQBatchSend\QQBatchSend.IR.Tester\bin\Release\QQBatchSend.IR.Tester.exe
+E:\Works\CleverQQ\QQBatchSend\QQBatchSend.IR.Tester\bin\Release\QQBatchSend.IR.Tester.pdb
+E:\Works\CleverQQ\QQBatchSend\QQBatchSend.IR.Tester\obj\Release\QQBatchSend.IR.Tester.csprojAssemblyReference.cache
+E:\Works\CleverQQ\QQBatchSend\QQBatchSend.IR.Tester\obj\Release\QQBatchSend.IR.Tester.Form1.resources
+E:\Works\CleverQQ\QQBatchSend\QQBatchSend.IR.Tester\obj\Release\QQBatchSend.IR.Tester.Properties.Resources.resources
+E:\Works\CleverQQ\QQBatchSend\QQBatchSend.IR.Tester\obj\Release\QQBatchSend.IR.Tester.csproj.GenerateResource.cache
+E:\Works\CleverQQ\QQBatchSend\QQBatchSend.IR.Tester\obj\Release\QQBatchSend.IR.Tester.csproj.CoreCompileInputs.cache
+E:\Works\CleverQQ\QQBatchSend\QQBatchSend.IR.Tester\obj\Release\QQBatchSend.IR.Tester.exe
+E:\Works\CleverQQ\QQBatchSend\QQBatchSend.IR.Tester\obj\Release\QQBatchSend.IR.Tester.pdb

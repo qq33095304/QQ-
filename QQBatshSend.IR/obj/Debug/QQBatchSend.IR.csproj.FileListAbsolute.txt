@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\IRQQ1.4.7（密码1）\plugin\QQBatchSend.IR.dll
+E:\Works\CleverQQ\QQBatchSend\QQBatshSend.IR\bin\Debug\QQBatchSend.IR.dll
+E:\Works\CleverQQ\QQBatchSend\QQBatshSend.IR\bin\Debug\QQBatchSend.IR.pdb
+D:\Windows10\CPQ\plugin\QQBatchSend.IR.dll
+D:\Windows10\CPQ\plugin\QQBatchSend.IR.pdb
+E:\Works\CleverQQ\QQBatchSend\QQBatshSend.IR\obj\Debug\NiLiuShui.IRQQ.CSharp.FormMain.resources
+E:\Works\CleverQQ\QQBatchSend\QQBatshSend.IR\obj\Debug\QQBatchSend.IR.csproj.GenerateResource.cache
+E:\Works\CleverQQ\QQBatchSend\QQBatshSend.IR\obj\Debug\QQBatchSend.IR.csproj.CoreCompileInputs.cache
+E:\Works\CleverQQ\QQBatchSend\QQBatshSend.IR\obj\Debug\QQBatchSend.IR.dll
+E:\Works\CleverQQ\QQBatchSend\QQBatshSend.IR\obj\Debug\QQBatchSend.IR.pdb
+E:\GitHub\QQBatchSend\QQBatshSend.IR\obj\Debug\NiLiuShui.IRQQ.CSharp.FormMain.resources
+E:\GitHub\QQBatchSend\QQBatshSend.IR\obj\Debug\QQBatchSend.IR.csproj.GenerateResource.cache
+E:\GitHub\QQBatchSend\QQBatshSend.IR\obj\Debug\QQBatchSend.IR.csproj.CoreCompileInputs.cache
+E:\GitHub\QQBatchSend\QQBatshSend.IR\obj\Debug\QQBatchSend.IR.dll
+E:\GitHub\QQBatchSend\QQBatshSend.IR\obj\Debug\QQBatchSend.IR.pdb
